@@ -1,6 +1,7 @@
 from datetime import datetime
 import random
 
+#Primary logic behind program.
 #Bonjour or Journal?
 class Jour:
     
