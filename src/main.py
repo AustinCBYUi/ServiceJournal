@@ -25,6 +25,7 @@ class Jour:
     def get_data(self, name):
         pass
 
+#TODO Maybe build a labor rate recommendation calculator
 
     def create_entry(self):
         fname = input("First name: ")
