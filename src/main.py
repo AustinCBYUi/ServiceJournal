@@ -64,6 +64,9 @@ class Jour:
         file.write(f"Labor Rate: {labor_rate}\n")
         file.write(f"Labor Hours: {labor_hours}\n")
         file.write(f"Service General Comments: {service}\n")
+        #can I make this store First and Last name into a dictionary as a key with the value being the UID?
+        #That way you can search Austin Campbell for instance and it will pull up all dictionaries with each UID
+        #that you can browse through?
         file.write(f"Unique Identification: {uid}\n")
 
 # testMe = Jour.main(Jour)
