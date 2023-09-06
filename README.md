@@ -1,6 +1,12 @@
 # ServiceJournal
  Personal Service Journal
  ------
+
+## Author
+*Aussie Dev of course. Credit to Zach again! Appreciate the help, examples and motivation!*
+
+## Important Notice
+DetailingCalculator.py is not implemented into the program, and testingfunctions was to hit a box on the rubric last semester. Thanks
  
 ## Purpose
 The primary purpose of this application is to record mechanical repairs done on customers vehicles for my company Straight 6 Performance.
